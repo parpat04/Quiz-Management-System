@@ -1,0 +1,10 @@
+stu
+red
+circle
+2022.05.09.16.12.26
+50.00
+stu2
+red
+C:\Users\ampp1\Desktop\test.txt
+2022.05.09.16.13.59
+0.00

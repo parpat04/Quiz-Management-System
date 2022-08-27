@@ -1,0 +1,9 @@
+1
+stu
+dent
+2
+stu2
+dent2
+3
+stu3
+dent3
