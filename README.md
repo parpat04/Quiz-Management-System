@@ -1,5 +1,4 @@
 
-Project 5 CS 180 Readme.md
 Program Title: Grademic
 
 This program is an academic interface in which both students and teachers can interact with. All functions of this program utilize GUI’s (Graphical User Interfaces), a visual interface which the user can interact with via clicking and typing. There are two main interfaces in this program: The teacher interface and the student interface. In order to access either of these interfaces, an account must be made and logged into. Both types of accounts have their own features and permissions. In order to log in to one of these accounts, the user must first choose their role by clicking the ‘teacher’ button or the ‘student’ button. Then, the user will be prompted to either log in or create an account.
